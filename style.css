@@ -1,0 +1,64 @@
+/* 
+Theme Name: Xtra-Razai Zim
+Theme URI : https://github.com/razaizim1
+Author: Razai Zim
+Author URI: https://github.com/razaizim1
+Version: 1.0.0
+Description: This is the best theme developed by Razai Zim
+Tags: Xtra-theme
+Text Domain: Xtra
+*/
+
+.comment {
+  color: red;
+}
+
+.nav-links {
+  display: flex;
+}
+.nav-links .page-numbers {
+  background-color: #f0f0f0;
+  color: #999;
+  /* width: 50px; */
+  /* height: 50px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin: auto 10px;
+}
+
+.nav-links .current {
+  background-color: #0cc;
+  color: white;
+}
+
+.tm-prev-next-wrapper a {
+  color: #0cc;
+}
+
+.post-thumbnail img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.xtra_widget ul {
+  list-style: none;
+}
+
+.xtra_widget ul a {
+  color: #099;
+}
+
+/* .blog-menu {
+  list-style: none;
+  margin-bottom: 30px;
+} */
+
+/* .menu-item {
+  color: #0cc;
+  background-color: white;
+  text-decoration: none;
+} */
